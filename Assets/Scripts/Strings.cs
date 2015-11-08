@@ -14,10 +14,10 @@ public class Strings : MonoBehaviour {
 		gameText [0] [0] = "Este es el señor Suzuki";
 		gameText [0] [1]="El señor Suzuki es japones";
 		gameText [0] [2] = "Los japoneses son seres humanos";
-		gameText [0] [3]= logicaBasica;
-		gameText [0] [4]="Los humanos hacen cosas buenas";
-		gameText [0] [5]="y comen los tomates que cultiva el señor Suzuki";
-		gameText [0] [6]="El propio señor Suzuki no los come, solo trabaja 12 horas al dia";
+		gameText [0] [3]= logicaBasica;//ser
+		gameText [0] [4]="Los humanos hacen cosas buenas";//lb lb lb
+		gameText [0] [5]="y comen los tomates que cultiva el señor Suzuki";//bue bue
+		gameText [0] [6]="El propio señor Suzuki no los come, solo trabaja 12 horas al dia";//to
 		gameText [0] [7]="para venderlo todo a un supermercado";
 		gameText [0] [8]="donde se venden por dinero";
 

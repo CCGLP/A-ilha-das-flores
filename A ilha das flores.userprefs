@@ -3,11 +3,12 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Strings.cs">
     <Files>
       <File FileName="Assets\Scripts\Suzuki_Controller.cs" Line="18" Column="1" />
-      <File FileName="Assets\Scripts\Strings.cs" Line="75" Column="44" />
+      <File FileName="Assets\Scripts\Strings.cs" Line="20" Column="91" />
       <File FileName="Assets\Scripts\StartButton.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\ImageHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ImageHandler.cs" Line="20" Column="3" />
       <File FileName="Assets\Scripts\textHandler.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\GetCoin.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FinalCollide.cs" Line="13" Column="29" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
