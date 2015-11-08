@@ -1,0 +1,93 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4008 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ccglp\Documents\GitHub\A ilha das flores\BUILDS\Build_alpha_00_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ccglp\Documents\GitHub\A ilha das flores\BUILDS\Build_alpha_00_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ccglp\Documents\GitHub\A ilha das flores\BUILDS\Build_alpha_00_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ccglp\Documents\GitHub\A ilha das flores\BUILDS\Build_alpha_00_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ccglp\Documents\GitHub\A ilha das flores\BUILDS\Build_alpha_00_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ccglp\Documents\GitHub\A ilha das flores\BUILDS\Build_alpha_00_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ccglp\Documents\GitHub\A ilha das flores\BUILDS\Build_alpha_00_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ccglp\Documents\GitHub\A ilha das flores\BUILDS\Build_alpha_00_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\ccglp\Documents\GitHub\A ilha das flores\BUILDS\Build_alpha_00_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.031 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\ccglp\Documents\GitHub\A ilha das flores\BUILDS\Build_alpha_00_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 533c -> priority: 1 
+  Thread -> id: 5340 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.098751 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 276.
+Total: 0.154879 ms (FindLiveObjects: 0.014847 ms CreateObjectMapping: 0.004607 ms MarkObjects: 0.126975 ms  DeleteObjects: 0.005375 ms)
+
+1920 , 1080 , 981.25 , 435
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+1920 , 1080 , 1920 , 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+1920 , 1080 , 1920 , 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+1920 , 1080 , 1920 , 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+1920 , 1080 , 1920 , 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+1920 , 1080 , 1920 , 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+1920 , 1080 , 1920 , 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+1920 , 1080 , 1920 , 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+1920 , 1080 , 1920 , 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+1920 , 1080 , 1920 , 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+1920 , 1080 , 1920 , 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+1920 , 1080 , 1920 , 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+1920 , 1080 , 1920 , 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+1920 , 1080 , 1920 , 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Scene 'Level_02' (-1) couldn't be loaded because it has not been added to the build settings or the asset bundle has not been loaded.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 385)
+
